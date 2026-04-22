@@ -12,7 +12,7 @@ export default function Home() {
 
       <div className="overlay">
         <div className="content">
-          <h1 className="title">RÉSERVATION DE SALLES</h1>
+          <h1 className="title">RÉSERVATION DE SALLES de REUINION</h1>
           <p className="subtitle">Bienvenue dans notre plateforme de réservation</p>
          
          
